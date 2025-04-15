@@ -20,7 +20,7 @@
 
 ### Information Technology & Digital Knowledge
 
-- [Digital Literacy & Computer Fundamentals](./IT and Digital/BasicSkills.md)  
+- [Digital Literacy & Computer Fundamentals](./IT%20and%20Digital/BasicSkills.md)  
   *Essential skills for computer use, digital safety, and foundational IT knowledge.*
 - [Networking & Internet Technologies](./IT and Digital/Networking.md)  
   *Concepts, protocols, and tools for building and understanding computer networks.*
