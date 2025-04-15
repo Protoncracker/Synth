@@ -2,7 +2,7 @@
 
 <img src="synth-logo.png" alt="Synth Project Logo" title="Synth: The Memory Palace of Knowledge" style="width:50%; display:block; margin:auto;" />
 
-## Towards Λήθη: The Book of Knowledge - The Memory Palace of Protnocracker
+## Towards Λήθη: The Book of Knowledge - The Memory Palace of Protoncracker
 
 Welcome to **Synth**—the seed and first-draft concept for a greater vision: **Λήθη** (Lethe), a digital library that aspires to contain everything humanity knows, synthesized and accessible to all.
 
