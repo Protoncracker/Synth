@@ -20,26 +20,26 @@
 
 ### Information Technology & Digital Knowledge
 
-- [Digital Literacy & Computer Fundamentals](./IT%20and%20Digital/BasicSkills.md)  
-  *Essential skills for computer use, digital safety, and foundational IT knowledge.*
-- [Networking & Internet Technologies](./IT and Digital/Networking.md)  
-  *Concepts, protocols, and tools for building and understanding computer networks.*
-- [Linux & Open Source Systems](./IT and Digital/Linux.md)  
-  *Learning Linux, Unix-like systems, and open source tools from beginner to advanced.*
-- [Programming & Software Development](./IT and Digital/CodingSkills.md)  
-  *Tutorials, practice, and resources for coding in various languages and paradigms.*
-- [Cybersecurity, Hacking & Digital Defense](./IT and Digital/Cybersecurity.md)  
-  *Ethical hacking, CTFs, exploit development, and security research resources.*
-- [Security Tools & Frameworks](./IT and Digital/SecurityTools.md)  
-  *Frameworks, utilities, and platforms for cybersecurity education and practice.*
-- [Privacy, Communication & Email Services](./IT and Digital/EmailProviders.md)  
-  *Email, secure messaging, and privacy-focused communication providers.*
-- [Onion Services & Anonymous Resources (🧅)](./IT and Digital/OnionLinks.md)  
-  *Tor-only resources for privacy, research, and alternative access.*
-- [WhatsApp Group Directories & Social Communities](./IT and Digital/WhatsAppGroups.md)  
-  *Directories and search engines for WhatsApp groups on various topics.*
-- [Miscellaneous Digital Resources](./IT and Digital/Miscellaneous.md)  
-  *Other notable or unique links not covered elsewhere.*
+- [Digital Literacy & Computer Fundamentals](./IT%20and%20Digital/BasicSkills.md)  
+  *Essential skills for computer use, digital safety, and foundational IT knowledge.*
+- [Networking & Internet Technologies](./IT%20and%20Digital/Networking.md)  
+  *Concepts, protocols, and tools for building and understanding computer networks.*
+- [Linux & Open Source Systems](./IT%20and%20Digital/Linux.md)  
+  *Learning Linux, Unix-like systems, and open source tools from beginner to advanced.*
+- [Programming & Software Development](./IT%20and%20Digital/CodingSkills.md)  
+  *Tutorials, practice, and resources for coding in various languages and paradigms.*
+- [Cybersecurity, Hacking & Digital Defense](./IT%20and%20Digital/Cybersecurity.md)  
+  *Ethical hacking, CTFs, exploit development, and security research resources.*
+- [Security Tools & Frameworks](./IT%20and%20Digital/SecurityTools.md)  
+  *Frameworks, utilities, and platforms for cybersecurity education and practice.*
+- [Privacy, Communication & Email Services](./IT%20and%20Digital/EmailProviders.md)  
+  *Email, secure messaging, and privacy-focused communication providers.*
+- [Onion Services & Anonymous Resources (🧅)](./IT%20and%20Digital/OnionLinks.md)  
+  *Tor-only resources for privacy, research, and alternative access.*
+- [WhatsApp Group Directories & Social Communities](./IT%20and%20Digital/WhatsAppGroups.md)  
+  *Directories and search engines for WhatsApp groups on various topics.*
+- [Miscellaneous Digital Resources](./IT%20and%20Digital/Miscellaneous.md)  
+  *Other notable or unique links not covered elsewhere.*
 
 ---
 
